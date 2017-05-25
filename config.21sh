@@ -1,0 +1,4 @@
+~=$HOME
+ll=ls -l
+gin=grep -rin
+zsh_hist=/Users/vic/.zsh_history
