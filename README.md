@@ -36,13 +36,13 @@ $> ls -l 1>&2 | cat -e // la sortit de `ls` est rediriger vers la sortit d'erreu
 * Heredoc `<<`
 * Double redirection `>>`
 * Redirection `<` et `>`
-* Agregateur  `>&`
+* Agrégateur  `>&`
 * Multi commande `;`
 * Et `&&`
 * Ou `||`
-* Edittion de ligne
-* Autocompletion
-* Allias
+* Edition de ligne
+* Autocomplétion
+* Alias
 
 ## Bultin
 
@@ -56,11 +56,11 @@ $> ls -l 1>&2 | cat -e // la sortit de `ls` est rediriger vers la sortit d'erreu
 
 ## Controle
 
-* mode de selection `esc`
-* Copier `esc` selectionner avec les fleche directionel puis pressez `Alt + c`
-* Couper `esc` selectionner avec les fleche directionel puis pressez `Alt + x`
+* Mode de selection `esc`
+* Copier `esc` sélectionner avec les fleches directionelles puis pressez `Alt + c`
+* Couper `esc` sélectionner avec les fleches directionelles puis pressez `Alt + x`
 * Coller `Alt + v`
 * Autocompletion `Tab`
-* se deplacer de mots en mots `Alt + Fleche Droite,gauche`
-* se deplacer d'une ligne a l'autre `Alt + Fleche Haut,Bas`
-* naviguer dans l'historique `Fleche Haut,Bas`
+* Se déplacer de mot en mot `Alt + Fleche Droite,gauche`
+* Se déplacer d'une ligne à l'autre `Alt + Fleche Haut,Bas`
+* Naviguer dans l'historique `Fleche Haut,Bas`
