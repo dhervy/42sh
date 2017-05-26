@@ -54,7 +54,7 @@ $> ls -l 1>&2 | cat -e // la sortit de `ls` est rediriger vers la sortit d'erreu
 * history
 * read
 
-## Controle
+## Control
 
 * Mode de sélection : `esc`
 * Copier : `esc` sélectionner avec les flêches directionelles, puis presser `Alt + c`
