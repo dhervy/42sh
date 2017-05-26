@@ -1,6 +1,6 @@
 # 42sh
 
-Le but est de créer un shell plus complexe que le 21sh mais au sein d'un groupe de trois étudient.
+Le but est de créer un shell plus complexe que le 21sh mais au sein d'un groupe de trois étudiants.
 
 * Dhervy
 * Tbertojo
@@ -8,7 +8,7 @@ Le but est de créer un shell plus complexe que le 21sh mais au sein d'un groupe
 
 ## Compiling
 
-executer `make`, un exécutable nommé `42sh` devrait compiler directement.
+En exécutant `make`, un exécutable nommé `Fractol` sera compilé directement.
 
 ## Usgae
 
@@ -56,11 +56,11 @@ $> ls -l 1>&2 | cat -e // la sortit de `ls` est rediriger vers la sortit d'erreu
 
 ## Controle
 
-* Mode de selection `esc`
-* Copier `esc` sélectionner avec les fleches directionelles puis pressez `Alt + c`
-* Couper `esc` sélectionner avec les fleches directionelles puis pressez `Alt + x`
+* Mode de sélection `esc`
+* Copier `esc` sélectionner avec les flêches directionelles puis presser `Alt + c`
+* Couper `esc` sélectionner avec les flêches directionelles puis presser `Alt + x`
 * Coller `Alt + v`
-* Autocompletion `Tab`
-* Se déplacer de mot en mot `Alt + Fleche Droite,gauche`
-* Se déplacer d'une ligne à l'autre `Alt + Fleche Haut,Bas`
+* Autocomplétion `Tab`
+* Se déplacer de mot en mot `Alt + Flêche Droite,gauche`
+* Se déplacer d'une ligne à l'autre `Alt + Flêche Haut,Bas`
 * Naviguer dans l'historique `Fleche Haut,Bas`
