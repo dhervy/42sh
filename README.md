@@ -56,11 +56,11 @@ $> ls -l 1>&2 | cat -e // la sortit de `ls` est rediriger vers la sortit d'erreu
 
 ## Controle
 
-* Mode de sélection `esc`
-* Copier `esc` sélectionner avec les flêches directionelles puis presser `Alt + c`
-* Couper `esc` sélectionner avec les flêches directionelles puis presser `Alt + x`
-* Coller `Alt + v`
-* Autocomplétion `Tab`
-* Se déplacer de mot en mot `Alt + Flêche Droite,gauche`
-* Se déplacer d'une ligne à l'autre `Alt + Flêche Haut,Bas`
-* Naviguer dans l'historique `Fleche Haut,Bas`
+* Mode de sélection : `esc`
+* Copier : `esc` sélectionner avec les flêches directionelles, puis presser `Alt + c`
+* Couper : `esc` sélectionner avec les flêches directionelles, puis presser `Alt + x`
+* Coller : `Alt + v`
+* Autocomplétion : `Tab`
+* Se déplacer de mot en mot : `Alt + Flêche Droite,gauche`
+* Se déplacer d'une ligne à l'autre : `Alt + Flêche Haut,Bas`
+* Naviguer dans l'historique : `Fleche Haut,Bas`
