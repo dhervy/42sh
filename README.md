@@ -1,6 +1,6 @@
 # 42sh
 
-Le but était de crée un shell plus complexe que le 21sh mais en groupe cet fois si.
+Le but est de créer un shell plus complexe que le 21sh mais au sein d'un groupe de trois étudient.
 
 * Dhervy
 * Tbertojo
