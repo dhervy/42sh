@@ -40,7 +40,8 @@ $> ls -l 1>&2 | cat -e // la sortit de `ls` est rediriger vers la sortit d'erreu
 * Multi commande `;`
 * Et `&&`
 * Ou `||`
-* Edittion de ligne 
+* Edittion de ligne
+* Autocompletion
 * Allias
 
 ## Bultin
@@ -59,6 +60,7 @@ $> ls -l 1>&2 | cat -e // la sortit de `ls` est rediriger vers la sortit d'erreu
 * Copier `esc` selectionner avec les fleche directionel puis pressez `Alt + c`
 * Couper `esc` selectionner avec les fleche directionel puis pressez `Alt + x`
 * Coller `Alt + v`
+* Autocompletion `Tab`
 * se deplacer de mots en mots `Alt + Fleche Droite,gauche`
 * se deplacer d'une ligne a l'autre `Alt + Fleche Haut,Bas`
 * naviguer dans l'historique `Fleche Haut,Bas`
